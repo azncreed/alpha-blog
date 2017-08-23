@@ -11,6 +11,8 @@ gem 'bootstrap-sass', '~> 3.3.6'
 # jQuery rails 
 gem 'jquery-rails'
 
+gem 'bcrypt', '~> 3.1.7'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.2'
 # Use Puma as the app server
